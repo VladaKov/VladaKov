@@ -1,4 +1,4 @@
-![GIF](https://media1.tenor.com/m/zMUNsugA5PoAAAAd/cats-cat.gif)
+![GIF](https://i.pinimg.com/originals/29/bf/ad/29bfad8a363a3f3011984614e5837c78.gif)
 
 # Hi there 👋
 ---
