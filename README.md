@@ -1,7 +1,17 @@
 ![GIF](https://i.pinimg.com/originals/29/bf/ad/29bfad8a363a3f3011984614e5837c78.gif)
-<p style="font-size: 200px; color: #03d8c8; font-weight: bold; text-align: center;">Hi there</p>
+<br />
+<br />
 
-<p style="font-size: 48px; color: #03d8c8; font-weight: bold; text-align: center;">GitHub Stats</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=03D8C8&center=true&vCenter=true&width=600&height=80&lines=Hi+there" alt="Hi there" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=03D8C8&center=true&vCenter=true&width=500&height=60&lines=GitHub+Stats" alt="GitHub Stats" />
+</p>
+
+
+
 <div align="center">
   
 <a href="https://github.com/VladaKov">
