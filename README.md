@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=03D8C8&vCenter=true&width=500&height=60&lines=GitHub+Stats" alt="GitHub Stats" />
 </p>
 
@@ -42,7 +42,7 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=03D8C8&vCenter=true&width=500&height=60&lines=Tech+Stack" alt="Tech Stack" />
 </p>
 
