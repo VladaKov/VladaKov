@@ -1,7 +1,7 @@
 ![GIF](https://i.pinimg.com/originals/29/bf/ad/29bfad8a363a3f3011984614e5837c78.gif)
-<span style="color: #03d8c8">Hi there</span>
+<p style="font-size: 32px; color: #03d8c8; font-weight: bold; text-align: center;">Hi there</p>
 
-## GitHub Stats:
+<p style="font-size: 24px; color: #03d8c8; font-weight: bold; text-align: center;">GitHub Stats</p>
 <div align="center">
   
 <a href="https://github.com/VladaKov">
