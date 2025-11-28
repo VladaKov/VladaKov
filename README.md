@@ -8,7 +8,17 @@
       <img src="https://github-readme-stats.vercel.app/api?username=VladaKov&theme=ambient_gradient&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" />
     </picture>
   </a>
-  <text>&nbsp;</text>
+</div>
+
+<div>
+  <a href="https://github.com/VladaKov">
+    <picture>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=VladaKov&theme=ambient_gradient&hide_border=false" />
+    </picture>
+  </a>
+</div>
+
+<div>
   <a href="https://github.com/VladaKov">
     <picture>
       <source
@@ -20,11 +30,6 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladaKov&layout=compact&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76&hide_border=false&include_all_commits=false&count_private=false" />
-    </picture>
-  </a>
-    <a href="https://github.com/VladaKov">
-    <picture>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=VladaKov&theme=ambient_gradient&hide_border=false" />
     </picture>
   </a>
 </div>
