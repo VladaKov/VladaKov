@@ -1,5 +1,5 @@
 ![GIF](https://i.pinimg.com/originals/29/bf/ad/29bfad8a363a3f3011984614e5837c78.gif)
-<p style="font-size: 64px; color: #03d8c8; font-weight: bold; text-align: center;">Hi there</p>
+<p style="font-size: 200px; color: #03d8c8; font-weight: bold; text-align: center;">Hi there</p>
 
 <p style="font-size: 48px; color: #03d8c8; font-weight: bold; text-align: center;">GitHub Stats</p>
 <div align="center">
