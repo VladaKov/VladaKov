@@ -1,4 +1,4 @@
-![GIF](https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif)
+![GIF](https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif)
 # Hi there 👋
 ---
 # 💻 Tech Stack:
