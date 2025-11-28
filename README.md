@@ -22,15 +22,13 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladaKov&layout=compact&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76&hide_border=false&include_all_commits=false&count_private=false" />
     </picture>
   </a>
-</div>
-
-<div>
-  <a href="https://github.com/VladaKov">
+    <a href="https://github.com/VladaKov">
     <picture>
       <img src="https://nirzak-streak-stats.vercel.app/?user=VladaKov&theme=ambient_gradient&hide_border=false" />
     </picture>
   </a>
 </div>
+
 
 
 # 💻 Tech Stack:
