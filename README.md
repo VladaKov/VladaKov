@@ -16,13 +16,13 @@
 
 <div align="center">
   
-<a href="https://github.com/VladaKov">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladaKov&title_color=03d8c8&text_color=ffffff&icon_color=269ab5&bg_color=0d1117&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&ring_color=3d37a4&border_color=6408b3" />
-</a>
-
 <!-- <a href="https://github.com/VladaKov">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VladaKov&background=0d1117&ring=3d37a4&fire=269ab5&currStreakLabel=03d8c8&sideLabels=03d8c8&currStreakNum=ffffff&sideNums=ffffff&dates=269ab5&border=6408b3&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VladaKov&title_color=03d8c8&text_color=ffffff&icon_color=269ab5&bg_color=0d1117&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&ring_color=3d37a4&border_color=6408b3" />
 </a> -->
+
+<a href="https://github.com/VladaKov">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VladaKov&background=0d1117&ring=3d37a4&fire=269ab5&currStreakLabel=03d8c8&sideLabels=03d8c8&currStreakNum=ffffff&sideNums=ffffff&dates=269ab5&border=6408b3&hide_border=false" />
+</a>
 
 <!-- <a href="https://github.com/VladaKov">
   <picture>
