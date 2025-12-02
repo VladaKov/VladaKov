@@ -24,7 +24,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=VladaKov&background=0d1117&ring=3d37a4&fire=269ab5&currStreakLabel=03d8c8&sideLabels=03d8c8&currStreakNum=ffffff&sideNums=ffffff&dates=269ab5&border=6408b3&hide_border=false" />
 </a>
 
-<a href="https://github.com/VladaKov">
+<!-- <a href="https://github.com/VladaKov">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VladaKov&layout=compact&bg_color=0d1117&title_color=03d8c8&text_color=269ab5&border_color=6408b3&hide_border=false&include_all_commits=false&count_private=false"
@@ -36,7 +36,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladaKov&layout=compact&bg_color=0d1117&title_color=03d8c8&text_color=269ab5&border_color=6408b3&hide_border=false&include_all_commits=false&count_private=false" />
   </picture>
-</a>
+</a> -->
 
 </div>
 
